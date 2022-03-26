@@ -1,5 +1,5 @@
 import "./App.css";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Outputdata from "./components/outputGroup";
 
 function App() {
